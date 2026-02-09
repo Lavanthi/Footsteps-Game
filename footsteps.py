@@ -23,6 +23,7 @@ def clear_screen():
     """Prints blank lines to visually clear the console."""
     print("\n" * 50)
 
+#code
 
 def show_start_screen():
     """Displays the home/start screen with rules and credits."""
