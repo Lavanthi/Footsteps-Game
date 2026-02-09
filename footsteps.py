@@ -14,6 +14,7 @@ at the end of the game wins.
 BOARD_SIZE = 9              # Total number of board spaces
 START_POSITION = BOARD_SIZE // 2
 STARTING_POINTS = 50
+print("hello")
 
 
 # =========================
